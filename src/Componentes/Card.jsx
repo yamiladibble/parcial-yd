@@ -4,8 +4,10 @@ import React from "react";
 
 
 const Card = () => {
-  return <div>Hola, soy una tarjeta</div>;
+  return <div><p>:)</p></div>;
 };
+
+
 
 
 export default Card;
